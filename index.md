@@ -1,4 +1,4 @@
-# Jiali Shi's FIrst CS193 Homework #)
+# Jiali Shi's FIrst CS193 Homework #
 - Classmates
 - New Knowledge
 - Quizzes after lecture
